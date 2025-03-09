@@ -1,0 +1,22 @@
+.scheme-card {
+    background: white;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: 0.3s;
+  }
+  
+  .scheme-card:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .tag {
+    display: inline-block;
+    background: #e0e0e0;
+    color: green;
+    padding: 5px 10px;
+    border-radius: 3px;
+    margin: 5px 0;
+  }
+  
