@@ -141,3 +141,7 @@ app.get("/api/cold-stores", (req, res) => {
 app.listen(PORT, () => {
     console.log("Server running on http://localhost:" + PORT);
 });
+
+function normalizeStr(str) {
+    return (str || '').trim().toLowerCase();
+}
