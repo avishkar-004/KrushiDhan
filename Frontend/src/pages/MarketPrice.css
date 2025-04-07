@@ -1,0 +1,6 @@
+.market-container { text-align: center; padding: 20px; background-color: #f4f4f4; }
+.filter-container { display: flex; justify-content: center; gap: 15px; margin-bottom: 20px; flex-wrap: wrap; }
+.market-table { width: 100%; border-collapse: collapse; }
+.market-table th { background: #2E86C1; color: #fff; padding: 12px; }
+.market-table td { padding: 10px; border: 1px solid #ddd; }
+.price-highlight { font-weight: bold; color: #2E7D32; }
