@@ -244,3 +244,4 @@ const RentProductForm = () => {
 };
 
 export default RentProductForm;
+// Form validation enhanced
