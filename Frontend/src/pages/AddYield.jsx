@@ -242,3 +242,4 @@ const YieldSellForm = () => {
 };
 
 export default YieldSellForm;
+// API endpoint: /api/farmer/yieldadd
