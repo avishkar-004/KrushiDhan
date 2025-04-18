@@ -182,3 +182,4 @@ const styles = {
 };
 
 export default ColdStorageLocator;
+// Default center: Maharashtra, India
