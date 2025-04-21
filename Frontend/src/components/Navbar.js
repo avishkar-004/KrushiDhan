@@ -109,3 +109,4 @@ styles.link['@media (max-width: 768px)'] = {
 };
 
 export default Navbar;
+// Responsive sidebar collapses on mobile
