@@ -34,3 +34,7 @@ Thumbs.db
 
 # Uploads
 uploads/
+
+# Testing
+__tests__/
+*.test.js.snap
